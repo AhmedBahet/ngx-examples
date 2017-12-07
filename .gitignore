@@ -9,6 +9,9 @@
 /node_modules
 
 # IDEs and editors
+*.iml
+*.ipr
+*.iws
 /.idea
 .project
 .classpath
